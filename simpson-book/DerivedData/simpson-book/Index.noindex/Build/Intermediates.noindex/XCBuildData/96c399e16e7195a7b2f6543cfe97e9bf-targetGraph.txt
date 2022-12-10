@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+simpson-book in simpson-book, no dependencies
+simpson-book in simpson-book, no dependencies
+simpson-bookTests in simpson-book, depends on:
+simpson-book in simpson-book (explicit)
+simpson-bookTests in simpson-book, depends on:
+simpson-book in simpson-book (explicit)
+simpson-bookTests in simpson-book, no dependencies
+simpson-bookUITests in simpson-book, depends on:
+simpson-book in simpson-book (explicit)
+simpson-bookUITests in simpson-book, depends on:
+simpson-book in simpson-book (explicit)
+simpson-bookUITests in simpson-book, no dependencies

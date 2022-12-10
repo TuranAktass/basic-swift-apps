@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>24653D4E-D530-4224-B05D-E572DC562D55</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>24653D4E-D530-4224-B05D-E572DC562D55.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>simpson-book project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simpson-book</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build simpson-book</string>
+			<key>timeStartedRecording</key>
+			<real>692404855.08882201</real>
+			<key>timeStoppedRecording</key>
+			<real>692404857.14663601</real>
+			<key>title</key>
+			<string>Build simpson-book</string>
+			<key>uniqueIdentifier</key>
+			<string>24653D4E-D530-4224-B05D-E572DC562D55</string>
+		</dict>
+		<key>926E0C94-DD59-4030-B50C-24E6C0D45761</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>926E0C94-DD59-4030-B50C-24E6C0D45761.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>simpson-book project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simpson-book</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build simpson-book</string>
+			<key>timeStartedRecording</key>
+			<real>692405174.81250298</real>
+			<key>timeStoppedRecording</key>
+			<real>692405176.26934195</real>
+			<key>title</key>
+			<string>Build simpson-book</string>
+			<key>uniqueIdentifier</key>
+			<string>926E0C94-DD59-4030-B50C-24E6C0D45761</string>
+		</dict>
+		<key>CFC9B8CA-BCAB-403A-A8BC-9F0CA3999012</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CFC9B8CA-BCAB-403A-A8BC-9F0CA3999012.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>simpson-book project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simpson-book</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build simpson-book</string>
+			<key>timeStartedRecording</key>
+			<real>692405221.71180403</real>
+			<key>timeStoppedRecording</key>
+			<real>692405222.80393505</real>
+			<key>title</key>
+			<string>Build simpson-book</string>
+			<key>uniqueIdentifier</key>
+			<string>CFC9B8CA-BCAB-403A-A8BC-9F0CA3999012</string>
+		</dict>
+		<key>D225FF28-7D0E-487F-ADBD-2605C244CA1F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D225FF28-7D0E-487F-ADBD-2605C244CA1F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>simpson-book project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simpson-book</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build simpson-book</string>
+			<key>timeStartedRecording</key>
+			<real>692405108.01608896</real>
+			<key>timeStoppedRecording</key>
+			<real>692405109.20461798</real>
+			<key>title</key>
+			<string>Build simpson-book</string>
+			<key>uniqueIdentifier</key>
+			<string>D225FF28-7D0E-487F-ADBD-2605C244CA1F</string>
+		</dict>
+		<key>DBB3D871-13DD-4EFC-9076-A158E757FDB9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBB3D871-13DD-4EFC-9076-A158E757FDB9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>simpson-book project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simpson-book</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build simpson-book</string>
+			<key>timeStartedRecording</key>
+			<real>692403687.42445803</real>
+			<key>timeStoppedRecording</key>
+			<real>692403690.55367994</real>
+			<key>title</key>
+			<string>Build simpson-book</string>
+			<key>uniqueIdentifier</key>
+			<string>DBB3D871-13DD-4EFC-9076-A158E757FDB9</string>
+		</dict>
+		<key>DE137FD3-FDB5-4DDA-AE08-577BB72360A6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE137FD3-FDB5-4DDA-AE08-577BB72360A6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>simpson-book project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simpson-book</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build simpson-book</string>
+			<key>timeStartedRecording</key>
+			<real>692405421.75672805</real>
+			<key>timeStoppedRecording</key>
+			<real>692405422.936414</real>
+			<key>title</key>
+			<string>Build simpson-book</string>
+			<key>uniqueIdentifier</key>
+			<string>DE137FD3-FDB5-4DDA-AE08-577BB72360A6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

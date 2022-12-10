@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+simpson-book in simpson-book, no dependencies
+simpson-book in simpson-book, no dependencies

@@ -231,6 +231,51 @@
 			<key>uniqueIdentifier</key>
 			<string>184DBC04-4459-42EE-B916-B7C003E31D54</string>
 		</dict>
+		<key>1892C8F4-17A8-4291-BB33-2B769FBB5354</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>91FB694D-19AF-4CA6-B2DC-E07AE1A5B20F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-landmark-book-2022.12.10_22-57-50-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>landmark-book project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>landmark-book</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run landmark-book</string>
+			<key>timeStartedRecording</key>
+			<real>692395070.66694403</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run landmark-book</string>
+			<key>uniqueIdentifier</key>
+			<string>1892C8F4-17A8-4291-BB33-2B769FBB5354</string>
+		</dict>
 		<key>64DBBBBC-9D9E-4423-95CE-A7270CD1B5CE</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>

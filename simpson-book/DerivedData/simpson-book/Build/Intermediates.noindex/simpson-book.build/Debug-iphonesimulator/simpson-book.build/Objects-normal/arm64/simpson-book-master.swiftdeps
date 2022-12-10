@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "10911e6779797b107d1c8fbf5eb9e166aecca173a0472401cc47e4c44b81fc8f"
+build_start_time: [1670712621, 922938823]
+build_end_time: [1670712622, 932701110]
+inputs:
+  "/Users/risetime/Documents/turan/swift-projects/simpson-book/simpson-book/AppDelegate.swift": [1670710773, 10968208]
+  "/Users/risetime/Documents/turan/swift-projects/simpson-book/simpson-book/DetailsVC.swift": [1670711235, 550647020]
+  "/Users/risetime/Documents/turan/swift-projects/simpson-book/simpson-book/SceneDelegate.swift": [1670710773, 14831304]
+  "/Users/risetime/Documents/turan/swift-projects/simpson-book/simpson-book/Simpson.swift": [1670711001, 850836753]
+  "/Users/risetime/Documents/turan/swift-projects/simpson-book/simpson-book/ViewController.swift": [1670712617, 1369476]
