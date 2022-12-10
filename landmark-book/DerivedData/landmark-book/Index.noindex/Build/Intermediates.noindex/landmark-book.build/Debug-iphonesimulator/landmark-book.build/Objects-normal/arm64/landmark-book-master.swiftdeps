@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "af7ac0940f3dfad60d0998ac5ecdc48ba85dab3d58a58fd6c18b51a1b486628f"
+build_start_time: [1670699127, 589597940]
+build_end_time: [1670699130, 204520940]
+inputs:
+  "/Users/risetime/Documents/turan/swift-projects/landmark-book/landmark-book/AppDelegate.swift": [1670699121, 931254863]
+  "/Users/risetime/Documents/turan/swift-projects/landmark-book/landmark-book/SceneDelegate.swift": [1670699121, 933235645]
+  "/Users/risetime/Documents/turan/swift-projects/landmark-book/landmark-book/ViewController.swift": [1670699121, 934143543]

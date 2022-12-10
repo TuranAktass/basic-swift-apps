@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+landmark-book in landmark-book, no dependencies
+landmark-book in landmark-book, no dependencies
+landmark-bookTests in landmark-book, depends on:
+landmark-book in landmark-book (explicit)
+landmark-bookTests in landmark-book, depends on:
+landmark-book in landmark-book (explicit)
+landmark-bookTests in landmark-book, no dependencies
+landmark-bookUITests in landmark-book, depends on:
+landmark-book in landmark-book (explicit)
+landmark-bookUITests in landmark-book, depends on:
+landmark-book in landmark-book (explicit)
+landmark-bookUITests in landmark-book, no dependencies

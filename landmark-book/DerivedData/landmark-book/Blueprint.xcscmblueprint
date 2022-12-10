@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8635B753EB446799D8928CC23DC665516B38D7C5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8635B753EB446799D8928CC23DC665516B38D7C5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4BC07A90-8821-4846-9016-8E4598F43853",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8635B753EB446799D8928CC23DC665516B38D7C5" : "swift-projects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "landmark-book",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "landmark-book\/landmark-book.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TuranAktass\/swift-apps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8635B753EB446799D8928CC23DC665516B38D7C5"
+    }
+  ]
+}
