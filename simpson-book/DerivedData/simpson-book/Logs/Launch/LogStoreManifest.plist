@@ -96,6 +96,51 @@
 			<key>uniqueIdentifier</key>
 			<string>715822F2-A3AB-4D2D-92E9-D68D0C31FD4E</string>
 		</dict>
+		<key>7B9C9588-6517-4697-827C-40054F9EF25F</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>DE137FD3-FDB5-4DDA-AE08-577BB72360A6</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-simpson-book-2022.12.11_01-50-21-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>simpson-book project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>simpson-book</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run simpson-book</string>
+			<key>timeStartedRecording</key>
+			<real>692405421.75463796</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run simpson-book</string>
+			<key>uniqueIdentifier</key>
+			<string>7B9C9588-6517-4697-827C-40054F9EF25F</string>
+		</dict>
 		<key>7CBB1151-E195-4E3D-BC38-A2FE45AAADF5</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
