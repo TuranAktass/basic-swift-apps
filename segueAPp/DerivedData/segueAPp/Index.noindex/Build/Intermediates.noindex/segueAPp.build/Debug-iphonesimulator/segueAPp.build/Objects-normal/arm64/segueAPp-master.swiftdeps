@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "86bd98074d5df4e6c8edbd40a7db33fc17b9cb3993acfc27f4049894acc37cd7"
+build_start_time: [1670587310, 652479171]
+build_end_time: [1670587313, 543311119]
+inputs:
+  "/Users/risetime/Documents/turan/swift-projects/segueAPp/segueAPp/AppDelegate.swift": [1670587303, 890955448]
+  "/Users/risetime/Documents/turan/swift-projects/segueAPp/segueAPp/SceneDelegate.swift": [1670587303, 892879486]
+  "/Users/risetime/Documents/turan/swift-projects/segueAPp/segueAPp/ViewController.swift": [1670587303, 893869161]

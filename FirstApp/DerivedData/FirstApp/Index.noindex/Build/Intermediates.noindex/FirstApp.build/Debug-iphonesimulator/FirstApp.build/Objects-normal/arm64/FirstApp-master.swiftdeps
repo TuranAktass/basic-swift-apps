@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "fd3be7c8220e93922341afad38106140f677dec6a09a1d6f59f60b722a433308"
+build_start_time: [1670222322, 967523097]
+build_end_time: [1670222325, 573292970]
+inputs:
+  "/Users/risetime/Documents/turan/FirstApp/FirstApp/AppDelegate.swift": [1670222316, 898010730]
+  "/Users/risetime/Documents/turan/FirstApp/FirstApp/SceneDelegate.swift": [1670222316, 901018142]
+  "/Users/risetime/Documents/turan/FirstApp/FirstApp/ViewController.swift": [1670222316, 901787996]

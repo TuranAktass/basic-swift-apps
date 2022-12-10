@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "09978d777a7d675c5766b7cb11338508e449dadd8e6a4de1394097fc5503789e"
+build_start_time: [1670674061, 966634988]
+build_end_time: [1670674062, 29330968]
+inputs:
+  "/Users/risetime/Documents/turan/swift-projects/catch-kenny/catch-kenny/AppDelegate.swift": !private [1670673400, 542094707]
+  "/Users/risetime/Documents/turan/swift-projects/catch-kenny/catch-kenny/SceneDelegate.swift": !private [1670673400, 545595169]
+  "/Users/risetime/Documents/turan/swift-projects/catch-kenny/catch-kenny/ViewController.swift": !private [1670674057, 728546142]

@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+gestures in gestures, no dependencies
+gestures in gestures, no dependencies
+gesturesTests in gestures, depends on:
+gestures in gestures (explicit)
+gesturesTests in gestures, depends on:
+gestures in gestures (explicit)
+gesturesTests in gestures, no dependencies
+gesturesUITests in gestures, depends on:
+gestures in gestures (explicit)
+gesturesUITests in gestures, depends on:
+gestures in gestures (explicit)
+gesturesUITests in gestures, no dependencies

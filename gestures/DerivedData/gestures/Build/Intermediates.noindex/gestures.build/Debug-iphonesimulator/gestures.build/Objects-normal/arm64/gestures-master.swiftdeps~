@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "5e1e9cee25ebb8b4d83fe3e18cd2a66a272ccd28798e64e215aeac09031e3a70"
+build_start_time: [1670595048, 943315982]
+build_end_time: [1670595048, 978343963]
+inputs:
+  "/Users/risetime/Documents/turan/swift-projects/gestures/gestures/AppDelegate.swift": !private [1670594773, 848301172]
+  "/Users/risetime/Documents/turan/swift-projects/gestures/gestures/SceneDelegate.swift": !private [1670594773, 850477218]
+  "/Users/risetime/Documents/turan/swift-projects/gestures/gestures/ViewController.swift": !private [1670595045, 45670509]

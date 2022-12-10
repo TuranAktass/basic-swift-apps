@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+timer-app in timer-app, no dependencies
+timer-app in timer-app, no dependencies
+timer-appTests in timer-app, depends on:
+timer-app in timer-app (explicit)
+timer-appTests in timer-app, depends on:
+timer-app in timer-app (explicit)
+timer-appTests in timer-app, no dependencies
+timer-appUITests in timer-app, depends on:
+timer-app in timer-app (explicit)
+timer-appUITests in timer-app, depends on:
+timer-app in timer-app (explicit)
+timer-appUITests in timer-app, no dependencies

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>22D3E5E9-B692-4E22-BF67-C80BF3F89FA5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>22D3E5E9-B692-4E22-BF67-C80BF3F89FA5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>gestures project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>gestures</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build gestures</string>
+			<key>timeStartedRecording</key>
+			<real>692288118.65928495</real>
+			<key>timeStoppedRecording</key>
+			<real>692288119.58771503</real>
+			<key>title</key>
+			<string>Build gestures</string>
+			<key>uniqueIdentifier</key>
+			<string>22D3E5E9-B692-4E22-BF67-C80BF3F89FA5</string>
+		</dict>
+		<key>3427619F-4487-4A6D-967C-66CD804BD921</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3427619F-4487-4A6D-967C-66CD804BD921.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>gestures project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>gestures</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build gestures</string>
+			<key>timeStartedRecording</key>
+			<real>692288035.946087</real>
+			<key>timeStoppedRecording</key>
+			<real>692288036.944677</real>
+			<key>title</key>
+			<string>Build gestures</string>
+			<key>uniqueIdentifier</key>
+			<string>3427619F-4487-4A6D-967C-66CD804BD921</string>
+		</dict>
+		<key>3D7A7057-BA8B-40B1-944F-119029747B07</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3D7A7057-BA8B-40B1-944F-119029747B07.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>gestures project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>gestures</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build gestures</string>
+			<key>timeStartedRecording</key>
+			<real>692288081.41097999</real>
+			<key>timeStoppedRecording</key>
+			<real>692288082.29623103</real>
+			<key>title</key>
+			<string>Build gestures</string>
+			<key>uniqueIdentifier</key>
+			<string>3D7A7057-BA8B-40B1-944F-119029747B07</string>
+		</dict>
+		<key>446E1659-FCB1-4451-88B6-BFA88895D2C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>446E1659-FCB1-4451-88B6-BFA88895D2C6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>gestures project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>gestures</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build gestures</string>
+			<key>timeStartedRecording</key>
+			<real>692287846.77823997</real>
+			<key>timeStoppedRecording</key>
+			<real>692287851.62134194</real>
+			<key>title</key>
+			<string>Build gestures</string>
+			<key>uniqueIdentifier</key>
+			<string>446E1659-FCB1-4451-88B6-BFA88895D2C6</string>
+		</dict>
+		<key>47E0E13A-C995-4CFE-9708-00A2836A957A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>47E0E13A-C995-4CFE-9708-00A2836A957A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>gestures project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>gestures</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build gestures</string>
+			<key>timeStartedRecording</key>
+			<real>692288101.26527405</real>
+			<key>timeStoppedRecording</key>
+			<real>692288102.19180703</real>
+			<key>title</key>
+			<string>Build gestures</string>
+			<key>uniqueIdentifier</key>
+			<string>47E0E13A-C995-4CFE-9708-00A2836A957A</string>
+		</dict>
+		<key>83D2AB08-C712-48EF-AB27-AD61E84794AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>83D2AB08-C712-48EF-AB27-AD61E84794AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>gestures project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>gestures</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build gestures</string>
+			<key>timeStartedRecording</key>
+			<real>692287882.87037897</real>
+			<key>timeStoppedRecording</key>
+			<real>692287883.80464196</real>
+			<key>title</key>
+			<string>Build gestures</string>
+			<key>uniqueIdentifier</key>
+			<string>83D2AB08-C712-48EF-AB27-AD61E84794AF</string>
+		</dict>
+		<key>CB28798F-045C-4F33-9BAC-1E66B446AD02</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CB28798F-045C-4F33-9BAC-1E66B446AD02.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>gestures project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>gestures</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build gestures</string>
+			<key>timeStartedRecording</key>
+			<real>692288058.58635795</real>
+			<key>timeStoppedRecording</key>
+			<real>692288059.49622202</real>
+			<key>title</key>
+			<string>Build gestures</string>
+			<key>uniqueIdentifier</key>
+			<string>CB28798F-045C-4F33-9BAC-1E66B446AD02</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

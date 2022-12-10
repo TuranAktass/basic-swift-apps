@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+ui_with_code in ui_with_code, no dependencies
+ui_with_code in ui_with_code, no dependencies
+ui_with_codeTests in ui_with_code, depends on:
+ui_with_code in ui_with_code (explicit)
+ui_with_codeTests in ui_with_code, depends on:
+ui_with_code in ui_with_code (explicit)
+ui_with_codeTests in ui_with_code, no dependencies
+ui_with_codeUITests in ui_with_code, depends on:
+ui_with_code in ui_with_code (explicit)
+ui_with_codeUITests in ui_with_code, depends on:
+ui_with_code in ui_with_code (explicit)
+ui_with_codeUITests in ui_with_code, no dependencies

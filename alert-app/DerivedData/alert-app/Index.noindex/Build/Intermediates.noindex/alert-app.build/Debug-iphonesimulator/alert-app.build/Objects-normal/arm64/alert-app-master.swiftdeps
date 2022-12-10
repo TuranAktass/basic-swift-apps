@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "43512f9b6579aa85a01097ebe6fb087765add7cbf0fabab2238d6cc906af141e"
+build_start_time: [1670591645, 874510049]
+build_end_time: [1670591648, 532655954]
+inputs:
+  "/Users/risetime/Documents/turan/swift-projects/alert-app/alert-app/AppDelegate.swift": [1670591639, 772727012]
+  "/Users/risetime/Documents/turan/swift-projects/alert-app/alert-app/SceneDelegate.swift": [1670591639, 776910305]
+  "/Users/risetime/Documents/turan/swift-projects/alert-app/alert-app/ViewController.swift": [1670591639, 777927398]

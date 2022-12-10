@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "d9bb7821ebcae9cc284affd34d75c18e661ca7d176fc170c7a280bc156d2e0cc"
+build_start_time: [1670516041, 745177984]
+build_end_time: [1670516042, 296927928]
+inputs:
+  "/Users/risetime/Documents/turan/swift-projects/ui_with_code/ui_with_code/AppDelegate.swift": [1670516033, 191396713]
+  "/Users/risetime/Documents/turan/swift-projects/ui_with_code/ui_with_code/SceneDelegate.swift": [1670516033, 193353176]
+  "/Users/risetime/Documents/turan/swift-projects/ui_with_code/ui_with_code/ViewController.swift": [1670516033, 194407463]

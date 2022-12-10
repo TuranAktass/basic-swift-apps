@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2C4BCE28-3516-4DFF-8C2D-0A10367FA47D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C4BCE28-3516-4DFF-8C2D-0A10367FA47D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>segueAPp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>segueAPp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build segueAPp</string>
+			<key>timeStartedRecording</key>
+			<real>692282780.14473498</real>
+			<key>timeStoppedRecording</key>
+			<real>692282780.89301598</real>
+			<key>title</key>
+			<string>Build segueAPp</string>
+			<key>uniqueIdentifier</key>
+			<string>2C4BCE28-3516-4DFF-8C2D-0A10367FA47D</string>
+		</dict>
+		<key>43C5A5A5-19EB-4A1F-840B-23F02ADBD4DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43C5A5A5-19EB-4A1F-840B-23F02ADBD4DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>segueAPp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>segueAPp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build segueAPp</string>
+			<key>timeStartedRecording</key>
+			<real>692282439.70976603</real>
+			<key>timeStoppedRecording</key>
+			<real>692282440.51207995</real>
+			<key>title</key>
+			<string>Build segueAPp</string>
+			<key>uniqueIdentifier</key>
+			<string>43C5A5A5-19EB-4A1F-840B-23F02ADBD4DC</string>
+		</dict>
+		<key>5E268E23-1421-417F-BC8E-FD465A99C028</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5E268E23-1421-417F-BC8E-FD465A99C028.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>segueAPp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>segueAPp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build segueAPp</string>
+			<key>timeStartedRecording</key>
+			<real>692281893.85222006</real>
+			<key>timeStoppedRecording</key>
+			<real>692281896.06186604</real>
+			<key>title</key>
+			<string>Build segueAPp</string>
+			<key>uniqueIdentifier</key>
+			<string>5E268E23-1421-417F-BC8E-FD465A99C028</string>
+		</dict>
+		<key>7DE9B7BB-7E08-4A36-A003-A77DF943CCFF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7DE9B7BB-7E08-4A36-A003-A77DF943CCFF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>segueAPp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>segueAPp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build segueAPp</string>
+			<key>timeStartedRecording</key>
+			<real>692282722.88106298</real>
+			<key>timeStoppedRecording</key>
+			<real>692282723.21507502</real>
+			<key>title</key>
+			<string>Build segueAPp</string>
+			<key>uniqueIdentifier</key>
+			<string>7DE9B7BB-7E08-4A36-A003-A77DF943CCFF</string>
+		</dict>
+		<key>BCD76D7C-EB1A-4503-974D-B3467CA8B5A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BCD76D7C-EB1A-4503-974D-B3467CA8B5A7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>segueAPp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>segueAPp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build segueAPp</string>
+			<key>timeStartedRecording</key>
+			<real>692282314.96320403</real>
+			<key>timeStoppedRecording</key>
+			<real>692282318.87699699</real>
+			<key>title</key>
+			<string>Build segueAPp</string>
+			<key>uniqueIdentifier</key>
+			<string>BCD76D7C-EB1A-4503-974D-B3467CA8B5A7</string>
+		</dict>
+		<key>D2CF22E0-915D-4299-9079-E0CC3473C662</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D2CF22E0-915D-4299-9079-E0CC3473C662.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>segueAPp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>segueAPp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build segueAPp</string>
+			<key>timeStartedRecording</key>
+			<real>692282612.83230102</real>
+			<key>timeStoppedRecording</key>
+			<real>692282613.21070504</real>
+			<key>title</key>
+			<string>Build segueAPp</string>
+			<key>uniqueIdentifier</key>
+			<string>D2CF22E0-915D-4299-9079-E0CC3473C662</string>
+		</dict>
+		<key>D9AB2E77-C253-430A-ABCC-665255FBC02C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D9AB2E77-C253-430A-ABCC-665255FBC02C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>segueAPp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>segueAPp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build segueAPp</string>
+			<key>timeStartedRecording</key>
+			<real>692282729.56853402</real>
+			<key>timeStoppedRecording</key>
+			<real>692282730.37753606</real>
+			<key>title</key>
+			<string>Build segueAPp</string>
+			<key>uniqueIdentifier</key>
+			<string>D9AB2E77-C253-430A-ABCC-665255FBC02C</string>
+		</dict>
+		<key>DF3AE312-821C-4395-8F89-59BB31444429</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DF3AE312-821C-4395-8F89-59BB31444429.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>segueAPp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>segueAPp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build segueAPp</string>
+			<key>timeStartedRecording</key>
+			<real>692281280.98725402</real>
+			<key>timeStoppedRecording</key>
+			<real>692281287.201267</real>
+			<key>title</key>
+			<string>Build segueAPp</string>
+			<key>uniqueIdentifier</key>
+			<string>DF3AE312-821C-4395-8F89-59BB31444429</string>
+		</dict>
+		<key>DFE30D97-5D22-43DA-BD39-B77044FF3296</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DFE30D97-5D22-43DA-BD39-B77044FF3296.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>segueAPp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>segueAPp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build segueAPp</string>
+			<key>timeStartedRecording</key>
+			<real>692282625.59452903</real>
+			<key>timeStoppedRecording</key>
+			<real>692282626.29765296</real>
+			<key>title</key>
+			<string>Build segueAPp</string>
+			<key>uniqueIdentifier</key>
+			<string>DFE30D97-5D22-43DA-BD39-B77044FF3296</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

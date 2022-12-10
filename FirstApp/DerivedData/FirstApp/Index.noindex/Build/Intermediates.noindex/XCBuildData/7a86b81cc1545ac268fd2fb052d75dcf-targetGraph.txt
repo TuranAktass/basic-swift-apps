@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+FirstApp in FirstApp, no dependencies
+FirstApp in FirstApp, no dependencies
+FirstAppTests in FirstApp, depends on:
+FirstApp in FirstApp (explicit)
+FirstAppTests in FirstApp, depends on:
+FirstApp in FirstApp (explicit)
+FirstAppTests in FirstApp, no dependencies
+FirstAppUITests in FirstApp, depends on:
+FirstApp in FirstApp (explicit)
+FirstAppUITests in FirstApp, depends on:
+FirstApp in FirstApp (explicit)
+FirstAppUITests in FirstApp, no dependencies

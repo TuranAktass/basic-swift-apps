@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "131d3a8a645b7812e2a5954410a24ad0ff7ee1e0ed6effa8f4419a7924ad8fd6"
+build_start_time: [1670595921, 485532999]
+build_end_time: [1670595922, 504434108]
+inputs:
+  "/Users/risetime/Documents/turan/swift-projects/timer-app/timer-app/AppDelegate.swift": !dirty [1670595915, 224530696]
+  "/Users/risetime/Documents/turan/swift-projects/timer-app/timer-app/SceneDelegate.swift": !dirty [1670595915, 226538658]
+  "/Users/risetime/Documents/turan/swift-projects/timer-app/timer-app/ViewController.swift": !dirty [1670595915, 227527618]

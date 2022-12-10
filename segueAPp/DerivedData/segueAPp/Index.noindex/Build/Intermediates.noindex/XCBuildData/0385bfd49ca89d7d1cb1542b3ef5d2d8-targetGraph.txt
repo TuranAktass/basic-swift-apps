@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+segueAPp in segueAPp, no dependencies
+segueAPp in segueAPp, no dependencies
+segueAPpTests in segueAPp, depends on:
+segueAPp in segueAPp (explicit)
+segueAPpTests in segueAPp, depends on:
+segueAPp in segueAPp (explicit)
+segueAPpTests in segueAPp, no dependencies
+segueAPpUITests in segueAPp, depends on:
+segueAPp in segueAPp (explicit)
+segueAPpUITests in segueAPp, depends on:
+segueAPp in segueAPp (explicit)
+segueAPpUITests in segueAPp, no dependencies

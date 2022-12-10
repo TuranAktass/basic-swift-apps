@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "4e590b73990e12cb4276248255aa934dc3d1a43d1088fb3ade36adbadbc39630"
+build_start_time: [1670227375, 892599105]
+build_end_time: [1670227375, 924747943]
+inputs:
+  "/Users/risetime/Documents/turan/playgroundsfirst.swiftpm/ContentView.swift": !private [1670227360, 213677883]
+  "/Users/risetime/Documents/turan/playgroundsfirst.swiftpm/MyApp.swift": !private [1670227360, 211593627]
