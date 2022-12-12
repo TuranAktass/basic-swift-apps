@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "4317553169ece486dbcdacf80f696a529aad3954cd972c580e258104d9b03477"
+build_start_time: [1670807356, 972406864]
+build_end_time: [1670807357, 926491022]
+inputs:
+  ? "/Users/risetime/Documents/turan/swift-projects/art-book-local-database/DerivedData/art-book-local-database/Build/Intermediates.noindex/art-book-local-database.build/Debug-iphonesimulator/art-book-local-database.build/DerivedSources/CoreDataGenerated/art_book_local_database/Paintings+CoreDataClass.swift"
+  : [1670769288, 440889120]
+  ? "/Users/risetime/Documents/turan/swift-projects/art-book-local-database/DerivedData/art-book-local-database/Build/Intermediates.noindex/art-book-local-database.build/Debug-iphonesimulator/art-book-local-database.build/DerivedSources/CoreDataGenerated/art_book_local_database/Paintings+CoreDataProperties.swift"
+  : [1670769288, 441731452]
+  ? "/Users/risetime/Documents/turan/swift-projects/art-book-local-database/DerivedData/art-book-local-database/Build/Intermediates.noindex/art-book-local-database.build/Debug-iphonesimulator/art-book-local-database.build/DerivedSources/CoreDataGenerated/art_book_local_database/art_book_local_database+CoreDataModel.swift"
+  : [1670769288, 439584255]
+  "/Users/risetime/Documents/turan/swift-projects/art-book-local-database/art-book-local-database/AppDelegate.swift": [1670767728, 879058837]
+  "/Users/risetime/Documents/turan/swift-projects/art-book-local-database/art-book-local-database/DetailsVC.swift": [1670805228, 508295059]
+  "/Users/risetime/Documents/turan/swift-projects/art-book-local-database/art-book-local-database/SceneDelegate.swift": [1670767728, 881094217]
+  "/Users/risetime/Documents/turan/swift-projects/art-book-local-database/art-book-local-database/ViewController.swift": [1670807353, 866563320]
