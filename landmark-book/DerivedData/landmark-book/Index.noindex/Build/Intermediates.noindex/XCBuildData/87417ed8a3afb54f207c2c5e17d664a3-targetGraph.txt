@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-landmark-book in landmark-book, no dependencies
-landmark-book in landmark-book, no dependencies

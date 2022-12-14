@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
-options: "5f0490859448d78a82057555607862b1c598b3673f4912edfb188a9b24d65c23"
-build_start_time: [1670532034, 934689044]
-build_end_time: [1670532034, 990818023]
-inputs:
-  "/Users/risetime/Documents/turan/swift-projects/birthdate-note-keeper/birthdate-note-keeper/AppDelegate.swift": !private [1670531761, 112442255]
-  "/Users/risetime/Documents/turan/swift-projects/birthdate-note-keeper/birthdate-note-keeper/SceneDelegate.swift": !private [1670531761, 114426136]
-  "/Users/risetime/Documents/turan/swift-projects/birthdate-note-keeper/birthdate-note-keeper/ViewController.swift": !private [1670532029, 602977037]

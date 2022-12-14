@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-art-book-local-database in art-book-local-database, no dependencies
-art-book-local-database in art-book-local-database, no dependencies

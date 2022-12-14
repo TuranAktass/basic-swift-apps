@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-calculator_swift in calculator_swift, no dependencies
-calculator_swift in calculator_swift, no dependencies

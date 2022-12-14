@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-birthdate-note-keeper in birthdate-note-keeper, no dependencies

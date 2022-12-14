@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-swift_layout in swift_layout, no dependencies
