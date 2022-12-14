@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8635B753EB446799D8928CC23DC665516B38D7C5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8635B753EB446799D8928CC23DC665516B38D7C5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1F84A8DD-7892-45AF-AC1B-129DFED8C94F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8635B753EB446799D8928CC23DC665516B38D7C5" : "swift-projects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "mapkit-tut",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mapkit-tut\/mapkit-tut.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TuranAktass\/swift-apps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8635B753EB446799D8928CC23DC665516B38D7C5"
+    }
+  ]
+}
